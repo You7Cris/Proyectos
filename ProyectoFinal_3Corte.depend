@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511397775 source:c:\users\crist\desktop\proyectos\proyectofinal_3corte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
